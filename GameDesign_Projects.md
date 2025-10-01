@@ -51,3 +51,8 @@ Paint Lovers is a **2D puzzle platformer** in which the player, embodying a youn
 
 ### If you are interest to reach more about this project: 
 - [Oral Presentation Slides (in french)](Documents/PaintLovers_OralPresentation.pdf)
+
+---
+
+[Discover more projects on my Main Portfolio](https://github.com/Doerys/Portfolio/blob/main/README.md)  
+[Get back to the main page](README.md)
